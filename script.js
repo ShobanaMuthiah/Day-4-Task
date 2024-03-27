@@ -1,10 +1,10 @@
 //Day 4 Task
 //Task 1 
 
-//Using annonymous function
+//Using anonymous function
 
 //a. print odd number in an array
-console.log('\nPrinting outputs using annonymous function\n')
+console.log('\nPrinting outputs using anonymous function\n')
 var arr=[11,4,7,5,3,8,2,12,56,23]
 var result=[];
 var a=function() {
